@@ -13,6 +13,8 @@ This project is intended to identify credit card customers that are most likely 
 
 This project provided practice using skills for testing, logging, and best coding practices. It also introduced a problem data scientists across companies face all the time. How do we identify (and later intervene with) customers who are likely to churn?
 
+> **KEYWORDS:** Python, autopep8, pylint, PEP8, logging, pytest, customer churn, scikit-learn, logistic regression, random forest, pandas, matplotlib, seaborn, pyplot, clean code, documentation, code testing, code refactoring, jupyter notebook, modularization, git, GitHub, version control, code optimization, unit test, 
+
 ## 📂 Files and data description
 The data used for this project is based on the **Credit Cad customers** dataset from [Kaggle](https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers). Here's an overview of the first rows:
 
