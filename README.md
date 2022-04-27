@@ -9,13 +9,11 @@
 This documentation serves as a knowledge base for the **Predict Customer Churn** project of the ML DevOps Engineer Nanodegree Program at Udacity.
 
 ## 🚀 Project Description
----
 This project is intended to identify credit card customers that are most likely to churn. It includes a Python package for a machine learning workflow that follows coding (PEP8) and engineering best practices for implementing software (modular, documented, and tested). The package also has the flexibility of being run interactively or from the command-line interface (CLI).
 
 This project provided practice using skills for testing, logging, and best coding practices. It also introduced a problem data scientists across companies face all the time. How do we identify (and later intervene with) customers who are likely to churn?
 
 ## 📂 Files and data description
----
 The data used for this project is based on the **Credit Cad customers** dataset from [Kaggle](https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers). Here's an overview of the first rows:
 
 | CLIENTUNUM | Customer_Age | Gender | Education_Level | Marital_Status | Income_Category |
@@ -52,7 +50,6 @@ Here is the file structure of the project:
 * **`models:`** Stores executable models in `.plk` format.
 
 ## ✅ Running Files
----
 To run the main library of functions to find customers who are likely to churn, we can proceed with any of the following CLI commands:
 ```
 python churn_library.py
