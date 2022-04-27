@@ -1,10 +1,7 @@
 # Predict Customer Churn
+Jorge Luis Ledesma Ureña, April 2022
 
 ![](https://miro.medium.com/max/1400/1*lnPucWPldjHus0vFxruRTQ.png)
-
-**Author:** Jorge Luis Ledesma Ureña
-
-**Date:** April 2022
 
 This documentation serves as a knowledge base for the **Predict Customer Churn** project of the ML DevOps Engineer Nanodegree Program at Udacity.
 
