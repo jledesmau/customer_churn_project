@@ -1,0 +1,26 @@
+2022-04-26 21:39:57,534 | root | INFO | START: Testing import_data
+2022-04-26 21:39:57,554 | root | INFO | Shape of dataset is (10127, 22)
+2022-04-26 21:39:57,554 | root | INFO | SUCCESS: Testing import_data, 0 errors found
+2022-04-26 21:39:57,557 | root | INFO | START: Testing perform_eda
+2022-04-26 21:39:58,991 | root | INFO | Plot saved in ./images/eda/churn_distribution.png
+2022-04-26 21:39:58,991 | root | INFO | Plot saved in ./images/eda/customer_age_distribution.png
+2022-04-26 21:39:58,991 | root | INFO | Plot saved in ./images/eda/marital_status_distribution.png
+2022-04-26 21:39:58,991 | root | INFO | Plot saved in ./images/eda/total_transaction_distribution.png
+2022-04-26 21:39:58,991 | root | INFO | Plot saved in ./images/eda/heatmap.png
+2022-04-26 21:39:58,991 | root | INFO | SUCCESS: Testing perform_eda, 0 errors found
+2022-04-26 21:39:58,991 | root | INFO | START: Testing encoder_helper
+2022-04-26 21:39:59,460 | root | INFO | SUCCESS: Testing encoder_helper, 0 errors found
+2022-04-26 21:39:59,460 | root | INFO | START: Testing perform_feature_engineering
+2022-04-26 21:39:59,881 | root | INFO | Shape of x_train is (7088, 19)
+2022-04-26 21:39:59,881 | root | INFO | Shape of x_test is (3039, 19)
+2022-04-26 21:39:59,881 | root | INFO | Shape of y_train is (7088,)
+2022-04-26 21:39:59,881 | root | INFO | Shape of y_test is (3039,)
+2022-04-26 21:39:59,881 | root | INFO | SUCCESS: Testing perform_feature_engineering, 0 errors found
+2022-04-26 21:39:59,882 | root | INFO | START: Testing train_models
+2022-04-26 21:43:49,263 | root | INFO | Result saved in ./images/results/random_forest_results.png
+2022-04-26 21:43:49,264 | root | INFO | Result saved in ./images/results/logistic_regression_results.png
+2022-04-26 21:43:49,264 | root | INFO | Result saved in ./images/results/roc_curve_result.png
+2022-04-26 21:43:49,264 | root | INFO | Result saved in ./images/results/feature_importances.png
+2022-04-26 21:43:49,264 | root | INFO | Random Forest model saved in ./models/rfc_model.pkl
+2022-04-26 21:43:49,264 | root | INFO | Logistic Regression model saved in ./models/logistic_model.pkl
+2022-04-26 21:43:49,265 | root | INFO | SUCCESS: Testing train_models, 0 errors found
